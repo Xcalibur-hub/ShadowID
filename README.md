@@ -13,6 +13,7 @@ ShadowID is an "Invisible AI" bodyguard that protects your phone from snatch-and
 - **Backend:** Python FastAPI "Forensic Brain"
 - **AI Engine:** Numpy Z-Score Anomaly Detection
 - **Agentic Layer:** Stream Vision Agents SDK
+- **Google Gemini:**
 
 ## 📈 How it Works
 1. **Calibrate:** The system learns your hand's natural "Noise Baseline."
